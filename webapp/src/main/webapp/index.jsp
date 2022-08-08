@@ -11,10 +11,10 @@
     <label for="Father's Name"><b>Enter Father's Name</b></label>
     <input type="text" placeholder="Enter Father's  Name" name="Name" id="Name" required>
     <br> 
-    
-   
-
-
+	
+    <label for="Mother's Name"><b>Enter Mother's Name</b></label>
+    <input type="text" placeholder="Enter Mother's  Name" name="Name" id="Name" required>
+    <br>
 
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
