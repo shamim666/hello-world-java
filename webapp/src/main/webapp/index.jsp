@@ -16,7 +16,7 @@
     <input type="text" placeholder="Enter Mother's  Name" name="Name" id="Name" required>
     <br>
 
-    label for="Sister's Name"><b>Enter Sister's Name</b></label>
+    <label for="Sister's Name"><b>Enter Sister's Name</b></label>
     <input type="text" placeholder="Enter Sister's  Name" name="Name" id="Name" required>
     <br>
 	
