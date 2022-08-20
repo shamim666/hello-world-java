@@ -19,10 +19,12 @@
     <label for="Sister's Name"><b>Enter Sister's Name</b></label>
     <input type="text" placeholder="Enter Sister's  Name" name="Name" id="Name" required>
     <br>
-	
 
+    <label for="Brother's Name"><b>Enter Brother's Name</b></label>
+    <input type="text" placeholder="Enter Brother's  Name" name="Name" id="Name" required>
+    <br>
 
-    <label for="mobile number"><b>Enter mobile number</b></label>
+    <label for="Mobile Number"><b>Enter Mobile Number</b></label>
     <input type="text" placeholder="Enter moible number here" name="mobile" id="mobile" required>
     <br>
 
